@@ -15,7 +15,7 @@
   "game-title": "新感覚 Homo ゲーム",
   "game-intro1": "一番下の先輩から順に処理していくゾ〜",
   "game-intro2": "20秒で何人レ◯プできるか勝負だゾ",
-  "game-intro3": "日本語訳 by nikkorinyuki",
+  "game-intro3": "日本語訳",
   "hint-keyboard-support": "(キーボード操作に対応！ゲーム設定ボタンからキーを確認・変更できます!!)",
   "hint-pointer-support": "(マウスまたはスマホのタップでも遊べます。)",
   "time-up": "時間切れ！",
@@ -30,5 +30,7 @@
   "text-level-3": "イキスギィ!イクイクイクイク",
   "text-level-4": "ヌゥン！ヘッ！ヘッ！ ア゛ア゛ア゛ア゛ァ",
   "text-level-5": "あーもうめちゃくちゃだよ",
+  "text-level-6": "頭に来ますよー（噴怒）",
+  "text-level-7": "オオン、アオン、19194545810！",
   "time-over": "タイムオーバー"
 }
